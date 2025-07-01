@@ -1,5 +1,7 @@
 # Quasar
 > Quasar will not be finished for at least 18 months, this is by far my largest and most complex project.
+
+
 > **Quasar is an interactive quantum circuit simulator with a high-performance Rust/WASM core and real-time 3D visualizations.**
 
 This project is a web-based quantum computing playground built from first principles, designed to make the fundamental concepts of quantum mechanics intuitive, interactive, and visually stunning.
